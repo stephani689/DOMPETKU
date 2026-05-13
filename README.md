@@ -1,7 +1,7 @@
 # Dompetku App - Pemrograman Mobile UTS 
 
 ## Nama & NIM
-- Nama: [Stephanu della christin zai]
+- Nama: [Stephani della christin zai]
 - NIM:  [243303621228]
 
 
