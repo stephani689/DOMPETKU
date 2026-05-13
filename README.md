@@ -7,7 +7,7 @@
 
 ## Screenshot
 ### Tampilan Utama 
-[assets/awal.jpeg]
+['assets/awal.jpeg']
 
 ### Tampilan saat saldo masuk
 [assets/saldo_masuk.jpeg]
