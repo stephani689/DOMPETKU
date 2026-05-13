@@ -9,6 +9,9 @@
 ### Tampilan Utama 
 [screenshot HP fisik di sini]
 
+### Tampilan saat saldo ada
+[screenshot HP fisik di sini]
+
 ### Tampilan saat dijalankan
 [screenshot HP fisik di sini]
 
