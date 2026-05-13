@@ -7,16 +7,16 @@
 
 ## Screenshot
 ### Tampilan Utama 
-[screenshot HP fisik di sini]
+[assets/awal.jpeg]
 
-### Tampilan saat saldo ada
-[screenshot HP fisik di sini]
+### Tampilan saat saldo masuk
+[assets/saldo_masuk.jpeg]
 
-### Tampilan saat dijalankan
-[screenshot HP fisik di sini]
+### Tampilan saldo aman
+[assets/zona_aman.jpeg]
 
 ### Tampilan saat ada minus saldo
-[screenshot HP fisik di sini]
+[assets/Kritis.jpeg]
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [https://github.com/stephani689/DOMPETKU]
