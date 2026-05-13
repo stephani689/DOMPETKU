@@ -7,16 +7,16 @@
 
 ## Screenshot
 ### Tampilan Utama 
-['assets/awal.jpeg']
+![Tampilan Utama](assets/awal.jpeg)
 
 ### Tampilan saat saldo masuk
-[assets/saldo_masuk.jpeg]
+![Tampilan saldo masuk](assets/saldo_masuk.jpeg)
 
 ### Tampilan saldo aman
-[assets/zona_aman.jpeg]
+![Tampilan saldo aman](assets/zona_aman.jpeg)
 
-### Tampilan saat ada minus saldo
-[assets/Kritis.jpeg]
+### Tampilan saldo krisis
+![Tampilan saldo krisis](assets/Kritis.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [https://github.com/stephani689/DOMPETKU]
